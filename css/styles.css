@@ -1,0 +1,13 @@
+.system{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 25px;
+}
+
+.mini{
+    width: 80px;
+}
+
+.js-matrix{
+    margin-right: 50px;
+}
